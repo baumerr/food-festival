@@ -1,4 +1,4 @@
-require('boostrap');
+require('bootstrap');
 const createEl = require('./helpers');
 const { createLoremIpsum, dateConverter } = require('./helpers')
 
